@@ -1,2 +1,5 @@
-# w00t
-Rand0m
+# hello-world
+
+"Hi, Human's!"
+
+aNewNyMus here, "I Like, Python.py!"\n
